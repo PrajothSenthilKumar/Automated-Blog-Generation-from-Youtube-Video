@@ -72,7 +72,7 @@
 ![kickoff_SS](https://github.com/user-attachments/assets/57cd887e-333f-47cb-96bd-ecfb76f3b62b)
 
 
-# 6) Observing the Output
+## 6) Observing the Output
 
   **a) blog_researcher agent and its task output**
   
@@ -94,7 +94,7 @@
 ![Output_7](https://github.com/user-attachments/assets/f67ba509-3770-4b6c-ace7-185f7a60a03b)
 
 
-# 7) Prajoth-blog-post.md
+## 7) Prajoth-blog-post.md
 
 ![Blog1_SS](https://github.com/user-attachments/assets/d2b5c0d0-946d-4e70-829c-fbd30eb7b8ea)
 
