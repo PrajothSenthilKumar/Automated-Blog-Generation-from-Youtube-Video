@@ -27,6 +27,7 @@
   ## a) Senior blog content researcher agent with YouTube tool.
 
 ![Agents1_SS](https://github.com/user-attachments/assets/2cc32675-3917-4c33-8509-8b2bc6a25085)
+
 ![Agents1_2SS](https://github.com/user-attachments/assets/8b6eebf1-28ab-4fd2-bd07-5a6051168139)
 
   
@@ -76,20 +77,27 @@
   ## a) blog_researcher agent and its task output
   
 ![Output_1](https://github.com/user-attachments/assets/ca177664-06b6-40c0-9dc5-26e1028d629f)
+
 ![Output_2](https://github.com/user-attachments/assets/71591889-4bb5-4d0b-aa05-b77ed68cea4b)
+
 ![Output_3](https://github.com/user-attachments/assets/47e6b953-20aa-41df-8b72-0b4a1fd9efd0)
+
 
   ## b) blog_writer agent and its task output
 
 ![Output_4](https://github.com/user-attachments/assets/6b5cecc7-bcd3-462f-b050-e4e2360bcfe5)
+
 ![Output_5](https://github.com/user-attachments/assets/df976bda-d3f1-4870-a614-df8837f2e493)
+
 ![Output_6](https://github.com/user-attachments/assets/9850458b-615d-4f3e-9958-1f7c8ca9291f)
+
 ![Output_7](https://github.com/user-attachments/assets/f67ba509-3770-4b6c-ace7-185f7a60a03b)
 
 
 # 7) Prajoth-blog-post.md
 
 ![Blog1_SS](https://github.com/user-attachments/assets/d2b5c0d0-946d-4e70-829c-fbd30eb7b8ea)
+
 ![Blog2_SS](https://github.com/user-attachments/assets/e4b0671f-f587-4b16-8f7f-89063f8d76a3)
 
 
