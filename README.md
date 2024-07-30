@@ -101,7 +101,7 @@
 ![Blog2_SS](https://github.com/user-attachments/assets/e4b0671f-f587-4b16-8f7f-89063f8d76a3)
 
 
-## Finally the Blog is generated from a YouTube video and stored in the output file.
+## Finally a Blog is generated from the YouTube video and stored in the output file.
 
 
 
